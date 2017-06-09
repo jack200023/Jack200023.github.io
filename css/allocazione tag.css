@@ -63,6 +63,9 @@ header {
     margin-left: 0px;
 }
 #h05 {
+	font-family:Lobster, Monospace;
+}
+#h06 {
 	font-size:250%;
 	font-family:Lobster, Monospace;
 	margin-top: 30px;
