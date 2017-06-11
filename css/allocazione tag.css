@@ -6,13 +6,12 @@ h1 {
 	font-family:verdana; 
 	text-align:center;
 }
-#info {
+pre {
 	font-family:Times New Roman, Times, serif;
 	font-size: 15px;
-	margin-top: 50px;
-    margin-right: px;
-    margin-left: 70px;
-	border:1px solid powderblue;
+	margin-top: 40px;
+    margin-right: 35px;
+    margin-left: 35px;	
 }
 
 header {
@@ -22,7 +21,7 @@ header {
 
 #h03 {
 	font-size:250%;
-	font-family:Lobster, Monospace;
+	font-family:helvetica;
 	margin-top: 40px;
     margin-right: 0px;
     margin-left: 0px;
@@ -30,45 +29,40 @@ header {
 }
 #h04 {
 	font-size:250%;
-	font-family:Lobster, Monospace;
-	margin-top: 30px;
+	font-family:helvetica;
+	margin-top: 60px;
     margin-right: 0px;
     margin-left: 0px;
 }
 
 #p01 {
-	font-size:300%;
-	font-family:Lobster, Monospace;
+	font-size:200%;
 	text-align:center;
-	margin-top: 50px;
-    margin-right: px;
-    margin-left: 0px;
-	
 }
 #p02 {
-	font-size:300%;
-	font-family:Lobster, Monospace;
+	font-size:200%;
 	text-align:center;
-	margin-top: 40px;
-    margin-right: 0px;
-    margin-left: 0px;
 }
-
-#p05 {
-	font-size:250%;
-	font-family:Lobster, Monospace;
+#p03 {
+	font-size:200%;
 	text-align:center;
-	margin-top: 30px;
-    margin-right: 0px;
-    margin-left: 0px;
+}
+#p04 {
+	font-size:200%;
+	text-align:center;
+}
+#p05 {
+	font-size:200%;
+	text-align:center;
+}
+#p06 {
+	font-size:200%;
+	text-align:center;
 }
 #h05 {
-	font-family:Lobster, Monospace;
-}
-#h06 {
 	font-size:250%;
-	font-family:Lobster, Monospace;
-	margin-top: 30px;
+	font-family:helvetica;
+	margin-top: 60px;
     margin-right: 0px;
     margin-left: 0px;
 	
@@ -89,8 +83,4 @@ hr {
 section {
 	
 	background-color:#bfbfbf
-}
-p {
-	font-size:15px;
-	
 }
